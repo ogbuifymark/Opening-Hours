@@ -7,7 +7,8 @@ Environment
 
 Running the project
  - restore nuget package
- - Run the project
+ - Run the project (Ctrl+ F5)
+ - Open Postman and use this link https://localhost:5001/api/Schedule
 
 Part 2
 
