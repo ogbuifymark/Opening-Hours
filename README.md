@@ -10,3 +10,6 @@ Running the project
  - Run the project
 
 Part 2
+
+The current JSON structure is correct because it can be easily maped to a dictionary. 
+And the dictinary makes it posible to search for time slot schedule in a day with a time complexity of big-O of 1
